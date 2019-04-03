@@ -1,1 +1,1 @@
-# JazekOSK
+# OSK
